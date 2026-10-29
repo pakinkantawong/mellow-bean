@@ -21,7 +21,6 @@
   - ต่อฟอร์มจองเข้า n8n → Google Sheets และแจ้งเตือนร้าน
   - เพิ่มรูปถ่ายจริงของร้านและเมนู
   - รองรับหลายภาษา (ไทย/อังกฤษ)
-
 - **เครื่องมือ:** HTML, CSS, JavaScript, OpenStreetMap, Git
 - **ลิงก์เดโม:** https://pakinkantawong.github.io/mellow-bean/
 
