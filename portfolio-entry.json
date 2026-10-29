@@ -18,6 +18,6 @@
   "tools": ["HTML", "CSS", "JavaScript", "OpenStreetMap"],
   "image": "mellow-bean.webp",
   "imageAlt": "หน้าแรกของเว็บไซต์ร้านกาแฟ Mellow Bean บนจอคอม",
-  "demo": "",
+  "demo": "https://pakinkantawong.github.io/mellow-bean/",
   "visual": "browser"
 }

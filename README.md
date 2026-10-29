@@ -30,3 +30,6 @@ python -m http.server 8080
 1. แก้ `config.js`: ชื่อร้าน เมนู เวลาเปิด `phone` `lineId` และพิกัด `map`
 2. ตั้ง `demo: false` เพื่อซ่อนป้ายเว็บตัวอย่าง และให้ปุ่มโทร/LINE ทำงานจริง
 3. (ถ้าต้องการ) ใส่ `bookingWebhookUrl` เป็น Production URL ของ n8n webhook เพื่อเก็บการจองลง Google Sheets
+
+## เดโม
+https://pakinkantawong.github.io/mellow-bean/
